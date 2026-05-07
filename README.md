@@ -74,7 +74,7 @@ movie-recommender/
 ---
 
 ## 🌐 Live Demo
-👉 [Coming soon — Streamlit Cloud]
+https://movierecommender-ml.streamlit.app/
 
 ---
 
